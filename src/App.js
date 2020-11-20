@@ -13,7 +13,7 @@ function App() {
         <Toolbar>
           <TypoGraphy variant="title"
             color="inherit" >
-            My header adjusted </TypoGraphy>
+            My header adjusted</TypoGraphy>
         </Toolbar> </AppBar>
       <br></br>
       <TextField
